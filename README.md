@@ -62,13 +62,18 @@ api_keys.json 수정 예
     }
 }
 ``````
-settings.xml 수정 예
+**settings.xml 수정 예**
 
 ```
 <setting id="youtube.api.key">AIzaSyDULvIsd9일부삭제cyzndlJQUz5A</setting>    
 <setting id="youtube.api.id">23676147256-7kkl일부삭제rh5v6pdmvt</setting>
 <setting id="youtube.api.secret">GOCSPX-JPV일부삭제RrSiE9VMn-gqM</setting>
 ```
-수정된 키 복사
+**수정된 키 복사**
 ##### 설치동영상
 [youtube 키 복사](https://drive.google.com/file/d/142VuvJYydhl6b4MuWy-1AG9BVvUAmZ4k/view?usp=share_link)   
+
+>#### 부가영상및 예고편을 보기위한 스킨 옵션 설정및  youtube 패치 애드온 설치
+##### 설치동영상
+[youtube 부가영상 스킨설정](https://drive.google.com/file/d/1yut0vwYinQJ-NhTthmhjdJ2QH4-wUbXH/view?usp=sharing)   
+
