@@ -74,6 +74,9 @@ api_keys.json 수정 예
 [youtube 키 복사](https://drive.google.com/file/d/142VuvJYydhl6b4MuWy-1AG9BVvUAmZ4k/view?usp=share_link)   
 
 >#### 부가영상및 예고편을 보기위한 스킨 옵션 설정및  youtube 패치 애드온 설치
+plugin.video.youtube 패치다운 (2023.5.6 기준)
+[plugin.video.youtube-7.0.2.alpha7.zip](https://drive.google.com/file/d/1Ce2t7jjw8ETY37pMCsuX99f1rm1E57Rp/view?usp=share_link)   
+
 ##### 설치동영상
 [youtube 부가영상 스킨설정](https://drive.google.com/file/d/1yut0vwYinQJ-NhTthmhjdJ2QH4-wUbXH/view?usp=sharing)   
 
