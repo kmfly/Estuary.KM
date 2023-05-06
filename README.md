@@ -32,6 +32,8 @@ https://github.com/croneter/PlexKodiConnect/wiki/Installation
 ##### 보기화면 변경및 환경설정
 ##### 설치동영상
 [스킨환경설정](https://drive.google.com/file/d/1vVl4SiADoSw7uY2nX9Iu1tQ_W85MmhBx/view?usp=sharing)
+##### TMDB 메뉴 한글설정
+[TMDB 메뉴 한글설정](https://drive.google.com/file/d/1BhmFJZ3d9MKUj6s36w4Gosv6wIm50ZYU/view?usp=share_link)
 
 ---
 
