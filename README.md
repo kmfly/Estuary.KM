@@ -40,7 +40,7 @@ https://github.com/croneter/PlexKodiConnect/wiki/Installation
 >#### 부가영상및 예고편을 보기위한 Youtube 환경설정
 ##### Youtube API 키 생성
 키발급 참조 링크
-https://brunch.co.kr/@mystoryg/156
+https://www.thefastcode.com/ko-krw/article/how-to-fix-kodi-s-youtube-quota-exceeded-problem
 ##### 스킨설치시 설치된 plugin.video.youtube 에서 파일수정 (api_keys.json, settings.xml)
 
 Window 기준
