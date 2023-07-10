@@ -87,4 +87,7 @@ plugin.video.youtube 패치다운 (2023.5.6 기준)
 내 라이브러리를 홈메뉴에 추가할수 있습니다
 ##### 설치동영상
 [홈메뉴추가](https://drive.google.com/file/d/1kzfrYSyYdzymMy-MxCHcR9veuSZlayd1/view?usp=sharing)
-
+>#### OTT(Tiving/Watcha/Wavve 외)설정
+밤보리님 애드온을 설치하면 홈메뉴에 해당 OTT가 추가됩니다.
+##### 설치동영상
+[KOREA OTT 설정](https://drive.google.com/file/d/1Liri6hDZ1CWFgZlMu-TABfFyk8cdqMgy/view?usp=sharing)
