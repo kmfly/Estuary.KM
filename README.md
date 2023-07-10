@@ -82,3 +82,9 @@ plugin.video.youtube 패치다운 (2023.5.6 기준)
 ##### 설치동영상
 [youtube 부가영상 스킨설정](https://drive.google.com/file/d/1yut0vwYinQJ-NhTthmhjdJ2QH4-wUbXH/view?usp=sharing)   
 
+---
+>#### 스킨 홈메뉴 추가 수정
+내 라이브러리를 홈메뉴에 추가할수 있습니다
+##### 설치동영상
+[홈메뉴추가](https://drive.google.com/file/d/1kzfrYSyYdzymMy-MxCHcR9veuSZlayd1/view?usp=sharing)
+
