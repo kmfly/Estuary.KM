@@ -89,5 +89,8 @@ plugin.video.youtube 패치다운 (2023.5.6 기준)
 [홈메뉴추가](https://drive.google.com/file/d/1kzfrYSyYdzymMy-MxCHcR9veuSZlayd1/view?usp=sharing)
 >#### OTT(Tiving/Watcha/Wavve 외)설정
 밤보리님 애드온을 설치하면 홈메뉴에 해당 OTT가 추가됩니다.
+**밤보리님 OTT 저장소파일 다운**
+[repository.nightrain_v19_public.zip](https://drive.google.com/file/d/1lJz25tYcZ9ywp-Lro-vklHACIm5D18im/view?usp=sharing)
+
 ##### 설치동영상
 [KOREA OTT 설정](https://drive.google.com/file/d/1Liri6hDZ1CWFgZlMu-TABfFyk8cdqMgy/view?usp=sharing)
