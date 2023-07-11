@@ -5,6 +5,9 @@
 repository.km.zip를 다운받아 저장소를 설치
 [repository.km.zip](https://drive.google.com/file/d/1xMfDLi8r4Sqo8JKpfJeFc4GKjx-lvSLk/view?usp=share_link)   
 
+>##### KM레포지토리 업데이트 방법
+[메뉴얼](https://drive.google.com/file/d/1V1hmknCP8XWFiqd2IVO76Usla7A4cVfK/view?usp=sharing)
+
 ##### 설치동영상
 [KM레포지토리를 통한 스킨 설치](https://drive.google.com/file/d/1no66wwIiSuevcqvPGhBQo9D11kkzAVAd/view?usp=share_link)
 
