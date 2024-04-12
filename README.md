@@ -1,9 +1,8 @@
 # Estuary.KM skin for Kodi 20.x Nexus
 **Repository 설치**
 >##### KM레포지토리 설치
-
 repository.km.zip를 다운받아 저장소를 설치
-[repository.km.zip](https://drive.google.com/file/d/1xMfDLi8r4Sqo8JKpfJeFc4GKjx-lvSLk/view?usp=share_link)   
+https://drive.google.com/file/d/1Dy_nJv599DmJDJ2UzbJjhv7LCaoPzL8b/view?usp=sharing
 
 >##### KM레포지토리 업데이트 방법
 [메뉴얼](https://drive.google.com/file/d/1V1hmknCP8XWFiqd2IVO76Usla7A4cVfK/view?usp=sharing)
